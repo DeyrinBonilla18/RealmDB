@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealmDB</string>
+    <string name="title_activity_adicionar">AdicionarActivity</string>
+    <string name="titulo">Título</string>
+    <string name="autor">Autor</string>
+
+</resources>
